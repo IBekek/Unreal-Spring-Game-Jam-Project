@@ -2,9 +2,13 @@
 
 2020 Unreal Spring Jam lasted 5 days, in which time I aspired to make a roguelike adventure game. 
 The idea was to make a game about a god of spring, bringing the season with him and driving out the winter. The player would have to act quick, as failure to complete all tasks in time resulted in losing the game, and the land freezing all over again. Features included:
+
    * Land covered in destructible snow
+   
    * Inventory system
+   
    * Dialogue system
+   
    * Painterly style and environment
 
 The game evolved throughout the 5-day period as I encountered many technical difficulties with the systems I wanted to implement, mostly involving the snow. I ended up losing a lot of time, that combined with lack of experience with systems needed, led to the game ending up unfinished, and in turn unsubmitted. All of the 3D models in the game have been made by me (though for reasons unknown to me at the time of making after building the game lighting broke in 2 of them).

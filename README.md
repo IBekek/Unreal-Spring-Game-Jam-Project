@@ -1,4 +1,4 @@
-# Unreal-Spring-Game-Jam-Project
+# Unreal Spring Game Jam Project
 
 2020 Unreal Spring Jam lasted 5 days, in which time I aspired to make a roguelike adventure game. 
 The idea was to make a game about a god of spring, bringing the season with him and driving out the winter. The player would have to act quick, as failure to complete all tasks in time resulted in losing the game, and the land freezing all over again. Features included:

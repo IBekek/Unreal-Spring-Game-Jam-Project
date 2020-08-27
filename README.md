@@ -15,6 +15,8 @@ The game evolved throughout the 5-day period as I encountered many technical dif
 
 I have learned a lot during this short time, and though it didn't turn out as well as I wanted it to, I'm happy with all the experience I got during this Game Jam.
 
+Developed with Unreal Engine 4
+
 ![GameJamProjectImage1](https://mir-s3-cdn-cf.behance.net/project_modules/disp/28de30101779797.5f2730c1aecd9.png?response-content-disposition%3Dattachment)
 ![GameJamProjectImage2](https://mir-s3-cdn-cf.behance.net/project_modules/disp/f1c875101779797.5f2730c1ae62c.png?response-content-disposition%3Dattachment)
 ![GameJamProjectImage3](https://mir-s3-cdn-cf.behance.net/project_modules/disp/4d8f44101779797.5f2730c1ad5fe.png?response-content-disposition%3Dattachment)
